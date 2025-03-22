@@ -8,5 +8,5 @@ services:
     ports:
       - "8000:8000"
     environment:
-      - TZ=Asia/Shanghai
-      - DEEP_SEEK_CHAT_AUTHORIZATION=nwjsewkOW3x2PMnSta6NPB3SUhOc1lW+xpDeW9CIs5gtB85yvOehkiO20Cb+UVl6
+      - TZ="Asia/Shanghai"
+      - DEEP_SEEK_CHAT_AUTHORIZATION="nwjsewkOW3x2PMnSta6NPB3SUhOc1lW+xpDeW9CIs5gtB85yvOehkiO20Cb+UVl6"
